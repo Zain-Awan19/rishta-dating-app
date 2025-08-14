@@ -509,9 +509,7 @@ If you need help or have questions:
 
 <div align="center">
   <h3>🌟 Star this repository if you find it helpful!</h3>
-  
-  **Made with ❤️ by the Rishta Team**
-  
+    
   *Building meaningful connections, one match at a time.*
   
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/yourusername)
